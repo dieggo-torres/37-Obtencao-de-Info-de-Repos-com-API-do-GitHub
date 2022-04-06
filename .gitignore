@@ -1,0 +1,5 @@
+# Checkpoints do Jupyter Notebook
+.ipynb_checkpoints
+
+# Variáveis de ambiente
+.env

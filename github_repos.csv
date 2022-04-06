@@ -1,0 +1,43 @@
+,Nome,Descrição,Criação,Linguagem,URL
+0,01-Artigo-LinkedIn-4-Aplicacoes-de-List-Comprehension,Este Jupyter notebook contém os exemplos usados no artigo do LinkedIn.,2022-02-17 13:22:29,Jupyter Notebook,https://api.github.com/repos/dieggo-torres/01-Artigo-LinkedIn-4-Aplicacoes-de-List-Comprehension
+1,01-Calculo-de-Bonus-de-Funcionarios,"Este programa calcula o bônus de cada funcionário com base no valor total de suas vendas, com o valor mínimo de vendas sendo de R$ 10 mil.",2022-02-15 13:24:51,Python,https://api.github.com/repos/dieggo-torres/01-Calculo-de-Bonus-de-Funcionarios
+2,01-Cartoes-Expansiveis,Widget para expandir imagem de uma galeria de fotos usando transições do CSS.,2022-02-15 22:40:06,HTML,https://api.github.com/repos/dieggo-torres/01-Cartoes-Expansiveis
+3,02-Artigo-LinkedIn-3-Aplicacoes-de-Funcoes-de-Iterables-em-Python,Este Jupyter notebbok contém os exemplos usados no artigo.,2022-02-17 13:41:35,Jupyter Notebook,https://api.github.com/repos/dieggo-torres/02-Artigo-LinkedIn-3-Aplicacoes-de-Funcoes-de-Iterables-em-Python
+4,02-Mini-Sistema-de-Controle-de-Estoque,Mini Sistema de Controle de Estoque,2022-02-15 14:26:14,Python,https://api.github.com/repos/dieggo-torres/02-Mini-Sistema-de-Controle-de-Estoque
+5,03-Validacao-Simplificada-de-CPF,Este programa é um validador simplificado de CPFs brasileiros.,2022-02-15 15:09:39,Python,https://api.github.com/repos/dieggo-torres/03-Validacao-Simplificada-de-CPF
+6,04-Validacao-de-E-mails,Módulo para validação simplificada de e-mail de usuário.,2022-02-16 12:40:26,Python,https://api.github.com/repos/dieggo-torres/04-Validacao-de-E-mails
+7,05-Analise-de-Faturamento,Módulo para criação de relatório com dados de vendas.,2022-02-16 13:08:30,Python,https://api.github.com/repos/dieggo-torres/05-Analise-de-Faturamento
+8,06-Atualizacao-de-Aliquota-de-Imposto,Cálculo de impacto financeiro após reajuste de carga tributária,2022-02-16 13:47:49,Python,https://api.github.com/repos/dieggo-torres/06-Atualizacao-de-Aliquota-de-Imposto
+9,07-Registro-de-Hospedes,Programa para criar relatório de hóspedes de um quarto de hotel.,2022-02-16 14:55:44,Python,https://api.github.com/repos/dieggo-torres/07-Registro-de-Hospedes
+10,08-Analise-de-Crescimento-de-Vendas,Programa para criar relatório de crescimento de vendas de produtos.,2022-02-17 11:53:13,Python,https://api.github.com/repos/dieggo-torres/08-Analise-de-Crescimento-de-Vendas
+11,09-Lista-de-Compras-de-Supermercado,Relatório de lista de compras.,2022-02-17 12:19:28,Python,https://api.github.com/repos/dieggo-torres/09-Lista-de-Compras-de-Supermercado
+12,10-Analise-de-Vendas,Programa para criar relatório de análise de vendas.,2022-02-17 12:49:09,Python,https://api.github.com/repos/dieggo-torres/10-Analise-de-Vendas
+13,11-Analise-de-Crescimento-de-Vendas--V2-,Este programa determina o crescimento percentual das vendas de uma lista de produtos.,2022-02-17 15:59:06,Python,https://api.github.com/repos/dieggo-torres/11-Analise-de-Crescimento-de-Vendas--V2-
+14,12-Identificacao-de-Niveis-de-CO2,Este programa identifica o nível médio de CO2 dos estados que constam num dicionário e exibe um relatório que descreve a situação de cada um deles. ,2022-02-17 16:22:22,Python,https://api.github.com/repos/dieggo-torres/12-Identificacao-de-Niveis-de-CO2
+15,13-Analise-de-Crescimento-de-Vendas-V3,Programa para gerar relatório de crescimento de vendas a partir de dicionário.,2022-02-18 12:21:33,Python,https://api.github.com/repos/dieggo-torres/13-Analise-de-Crescimento-de-Vendas-V3
+16,14-Descobrindo-a-Carga-Tributaria-de-Produto,Programa para calcular o percentual do preço de um produto correspondente a sua carga tributária.,2022-02-18 12:47:51,Python,https://api.github.com/repos/dieggo-torres/14-Descobrindo-a-Carga-Tributaria-de-Produto
+17,15-Calculo-do-Percentual-de-Stockout-de-uma-Empresa,Este programa calcula o percentual de stockout de uma empresa fictícia a partir de um dicionário com dados de suas vendas.,2022-02-21 11:03:42,Python,https://api.github.com/repos/dieggo-torres/15-Calculo-do-Percentual-de-Stockout-de-uma-Empresa
+18,16-Descobrindo-Clientes-Inadimplentes,Este programa recebe uma lista de clientes devedores e retorna uma lista com os clientes inadimplentes.,2022-02-21 11:28:46,Python,https://api.github.com/repos/dieggo-torres/16-Descobrindo-Clientes-Inadimplentes
+19,17-Criando-Lista-de-Produtos-Unicos,Este programa recebe um número indefinido de listas de tuplas para retornar uma lista com SKUs únicos.,2022-02-21 11:57:36,Python,https://api.github.com/repos/dieggo-torres/17-Criando-Lista-de-Produtos-Unicos
+20,18-Analise-de-Dados-de-Negocio-com-Pandas,Análise de Dados de Negócio com Pandas.,2022-02-22 13:33:25,Jupyter Notebook,https://api.github.com/repos/dieggo-torres/18-Analise-de-Dados-de-Negocio-com-Pandas
+21,19-Analise-de-Dados-com-as-Bases-da-Contoso,Análise de Dados com Bases da Empresa Contoso da Microsoft.,2022-02-23 19:18:03,Jupyter Notebook,https://api.github.com/repos/dieggo-torres/19-Analise-de-Dados-com-as-Bases-da-Contoso
+22,20-Disparo-de-Emails-com-Anexo,Disparo Automático de E-mails,2022-02-25 15:38:27,Jupyter Notebook,https://api.github.com/repos/dieggo-torres/20-Disparo-de-Emails-com-Anexo
+23,21-An-lise-de-Origem-de-Leads,,2022-02-26 12:53:23,,https://api.github.com/repos/dieggo-torres/21-An-lise-de-Origem-de-Leads
+24,21-Analise-de-Origem-de-Leads,Análise de Origem de Leads de uma Empresa,2022-02-26 12:57:47,Jupyter Notebook,https://api.github.com/repos/dieggo-torres/21-Analise-de-Origem-de-Leads
+25,22-Separacao-de-Arquivos-em-Pastas,Separação de Bases de Dados em Pastas Específicas,2022-02-26 14:23:57,Python,https://api.github.com/repos/dieggo-torres/22-Separacao-de-Arquivos-em-Pastas
+26,23-Sistema-Automatico-de-Envio-de-Emails-para-Contatos-do-Google-Contatos,Sistema Automático de Envio de E-mails para Contatos do Google com PyAutoGui,2022-03-02 13:58:17,Jupyter Notebook,https://api.github.com/repos/dieggo-torres/23-Sistema-Automatico-de-Envio-de-Emails-para-Contatos-do-Google-Contatos
+27,24-Sistema-para-Obter-Cotacoes-do-Dolar-Automaticamente,Automação Web com Selenium para Obtenção de Cotações Históricas do Dólar Americano,2022-02-28 11:36:37,Python,https://api.github.com/repos/dieggo-torres/24-Sistema-para-Obter-Cotacoes-do-Dolar-Automaticamente
+28,25-Envio-de-Mensagens-no-WhatsApp-via-Selenium,Envio de mensagens no WhatsApp com Selenium,2022-03-01 13:12:55,Python,https://api.github.com/repos/dieggo-torres/25-Envio-de-Mensagens-no-WhatsApp-via-Selenium
+29,26-Sistema-de-Obtencao-de-Links-de-Videos-do-YouTube,Este sistema cria um CSV com os links e títulos de vídeos do YouTube relacionados à palavra-chave especificada.,2022-03-04 21:04:37,Python,https://api.github.com/repos/dieggo-torres/26-Sistema-de-Obtencao-de-Links-de-Videos-do-YouTube
+30,27-Previsao-do-Tempo-com-a-API-do-Open-Weather-Map,Programa para Previsão do Tempo com a API do Open Weather Map,2022-03-08 11:31:44,Python,https://api.github.com/repos/dieggo-torres/27-Previsao-do-Tempo-com-a-API-do-Open-Weather-Map
+31,28-Automacao-Web-Completa,,2022-03-12 15:31:00,Python,https://api.github.com/repos/dieggo-torres/28-Automacao-Web-Completa
+32,29-Envio-de-SMS-com-a-API-da-Twilio,,2022-03-14 12:42:50,Python,https://api.github.com/repos/dieggo-torres/29-Envio-de-SMS-com-a-API-da-Twilio
+33,30-Jogo-de-Advinhacao-com-Flask,,2022-03-26 16:07:02,Python,https://api.github.com/repos/dieggo-torres/30-Jogo-de-Advinhacao-com-Flask
+34,31-Cartao-Pessoal-com-Flask-Web-App,Cartão Pessoal com Informações de contato de mídias sociais.,2022-03-28 11:44:31,CSS,https://api.github.com/repos/dieggo-torres/31-Cartao-Pessoal-com-Flask-Web-App
+35,32-Advinhar-Idade-e-G-nero,,2022-03-29 13:04:50,HTML,https://api.github.com/repos/dieggo-torres/32-Advinhar-Idade-e-G-nero
+36,33-Blog,,2022-03-30 11:53:15,HTML,https://api.github.com/repos/dieggo-torres/33-Blog
+37,curriculo-diego-moura-torres,Currículo Pessoal,2022-03-18 16:54:29,HTML,https://api.github.com/repos/dieggo-torres/curriculo-diego-moura-torres
+38,Descobrindo-a-Categoria-de-Lutadores-Conforme-Peso,,2022-04-02 22:31:51,Python,https://api.github.com/repos/dieggo-torres/Descobrindo-a-Categoria-de-Lutadores-Conforme-Peso
+39,dieggo-torres,Config files for my GitHub profile.,2022-02-15 21:29:03,,https://api.github.com/repos/dieggo-torres/dieggo-torres
+40,Frontend-Bootcamp,,2022-04-05 18:14:30,HTML,https://api.github.com/repos/dieggo-torres/Frontend-Bootcamp
+41,Tindog-Website,,2022-04-03 14:28:58,HTML,https://api.github.com/repos/dieggo-torres/Tindog-Website
