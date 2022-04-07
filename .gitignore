@@ -3,3 +3,6 @@
 
 # Variáveis de ambiente
 .env
+
+# Pycharm stuff
+.idea
